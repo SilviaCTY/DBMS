@@ -1,3 +1,3 @@
 # DBMS
-Group Project
+* Group Project
 * PHP/MySQL
